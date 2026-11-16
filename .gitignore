@@ -1,0 +1,35 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*secret*
+wallets.json
+local.properties
+secrets.php
+mono_merchant_token.txt
+
+# data / runtime
+*.sqlite3
+*.db
+*.log
+*.csv
+state.json
+
+# deps / build
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+dist/
+build/
+.gradle/
+.idea/
+.DS_Store
+media/
+staticfiles/
+.coverage
+htmlcov/
+.pytest_cache/

@@ -1,0 +1,14 @@
+# Polymarket Event Analyzer Dependencies
+
+# HTTP клиент
+aiohttp>=3.9.0
+
+# Для работы с датами
+python-dateutil>=2.8.2
+
+# Опционально: для улучшенного логирования
+colorlog>=6.8.0
+
+# Для тестирования
+pytest>=7.4.0
+pytest-asyncio>=0.21.0

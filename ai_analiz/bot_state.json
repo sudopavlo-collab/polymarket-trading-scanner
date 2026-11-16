@@ -1,0 +1,26 @@
+{
+  "balance_usd": "99.0000000045064",
+  "open_positions": {
+    "GwG8wNuW5a3qyg2v9hwUrp83DrLk383LP4Tv2jNEjups": {
+      "entry_usd": "0.9999999954936",
+      "amount_tokens": "7.565195206",
+      "decimals": 9,
+      "timestamp": "2025-11-26T02:27:33.986808"
+    }
+  },
+  "seen_tokens": {
+    "DeQ8dPv6ReZNQ45NfiWwS5CchWpB2BVq1QMyNV8L2uSW": [],
+    "FhVo3mqL8PW5pH5U2CN4XE33DokiyZnUwuGpH2hmHLuM": [],
+    "GrLZsWsSCzmZKXpqhQgWez6RpJc9Fkm8BGA4xp85Hown": [],
+    "4x5Zv8NhYzA4NQ8sjECDDg7YKRdVPiCvXDcS3b4ZT8Bo": []
+  },
+  "stats": {
+    "total_buys": 1,
+    "total_sells": 0,
+    "total_profit": "0",
+    "total_loss": "0",
+    "api_errors": 3,
+    "start_time": "2025-11-26T02:22:55.310750"
+  },
+  "last_save": "2025-11-26T16:00:55.680379"
+}
